@@ -1,0 +1,18 @@
+{
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "DISCOVERY_MR750",
+	"ProcedureStepDescription": "(I071HRM)_MARIA_MAGDALENA_GIORDANO_NOYOLA",
+	"ScanningSequence": "SE",
+	"SequenceVariant": "SK",
+	"SeriesDescription": "Ax_T2",
+	"BodyPartExamined": "BRAIN",
+	"ProtocolName": "Ax_T2",
+	"ImageType": ["ORIGINAL", "PRIMARY", "OTHER"],
+	"AcquisitionDateTime": "2019-09-29T13:09:25.000000",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 111,
+	"EchoTime": 0.10032,
+	"RepetitionTime": 5.192,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170411 GCC4.8.4"
+}
