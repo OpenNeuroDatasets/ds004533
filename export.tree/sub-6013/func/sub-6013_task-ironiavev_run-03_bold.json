@@ -1,0 +1,18 @@
+{
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "DISCOVERY_MR750",
+	"ProcedureStepDescription": "(I071HRM)_MARIA_MAGDALENA_GIORDANO_NOYOLA",
+	"ScanningSequence": "EP_GR",
+	"SequenceVariant": "SS",
+	"SeriesDescription": "fMRI_Ironia_3-b",
+	"BodyPartExamined": "BRAIN",
+	"ProtocolName": "fMRI_Ironia_3-b",
+	"ImageType": ["ORIGINAL", "PRIMARY", "EPI", "NONE"],
+	"AcquisitionDateTime": "2019-09-29T12:58:35.000000",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 90,
+	"EchoTime": 0.04,
+	"RepetitionTime": 2,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170411 GCC4.8.4"
+}
